@@ -1,2 +1,6 @@
-# AsmtoByte
-Assembly to machine code, machine code to assembly
+2022.03.03/20:00 V1.1版本:
+增加capstone引擎，支持机器码反汇编功能
+
+
+2022.02.17/20:00 V1.0版本:
+通过xasm引擎，支持汇编转机器码
