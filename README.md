@@ -4,5 +4,5 @@
 2022.02.17/20:00 V1.0版本: 通过xasm引擎，支持汇编转机器码
 
 <p>
-<img width="80%" src="./image.jpg">
+<img width="50%" src="./image.jpg">
 </p>
